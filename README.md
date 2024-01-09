@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan
 21 Year old self-taught hobby Python developer and hobby SysAdmin
-* 🌍  I'm based in Geramny
+* 🌍  I'm based in Germany
 
 ### Skills
 
